@@ -1,0 +1,8 @@
+﻿line_id,line_name,station_ids
+L1,Red,"S1,S2,S3,S4,S5"
+L2,Yellow,"S7,S5,S6,S8,S9,S23,S17"
+L3,Blue,"S10,S19,S11,S12,S8,S13,S18,S14"
+L4,Violet,"S5,S15,S13,S9,S16"
+L5,Magenta,"S19,S17,S18"
+L6,Orange (Airport Express Line),"S20,S22,S6"
+L7,Pink,"S4,S21,S11,S23,S16"

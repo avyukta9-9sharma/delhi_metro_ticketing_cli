@@ -1,0 +1,2 @@
+ticket_id,origin_id,dest_id,path_station_ids,price,instructions
+a5326cc6-6a62-4001-9c9e-c82ff22b5c9e,S1,S4,S1|S2|S3|S4,21,Start at Rithala on Red. Arrive at Netaji Subhash Place.

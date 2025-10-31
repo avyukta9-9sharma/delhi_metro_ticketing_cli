@@ -1,0 +1,24 @@
+﻿station_id,station_name,lines
+S1,Rithala,Red
+S2,Rohini,Red
+S3,Pitampura,Red
+S4,Netaji Subhash Place,"Red,Pink"
+S5,Kashmere Gate,"Red,Yellow,Violet"
+S6,New Delhi,"Yellow,Orange"
+S7,Jahangirpuri,Yellow
+S8,Rajiv Chowk,"Yellow,Blue"
+S9,Central Secretariat,"Yellow,Violet"
+S10,Dwarka,Blue
+S11,Rajouri Garden,"Blue,Pink"
+S12,Karol Bagh,Blue
+S13,Mandi House,"Blue,Violet"
+S14,Noida City Centre,Blue
+S15,ITO,Violet
+S16,Lajpat Nagar,"Violet,Pink"
+S17,Hauz Khas,"Yellow,Magenta"
+S18,Botanical Garden,"Blue,Magenta"
+S19,Janakpuri West,"Blue,Magenta"
+S20,IGI Airport T3,Orange
+S21,Punjabi Bagh,Pink
+S22,Dhaula Kuan,Orange
+S23,Dilli Haat INA,"Yellow,Pink"
